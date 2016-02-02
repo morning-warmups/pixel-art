@@ -35,3 +35,16 @@ Using jQuery, create divs with the class `square` and append them to the body.
 - Modify your code so that you are creating 8000 divs instead of 2000.
 - Change the event that changes your box colors from 'click' to 'mouseover'.
 - Paint a picture!
+
+### Step 5
+
+- Make it responsive. Use some maths to work out how big the viewport is and change the canvas size to suit the screen size.
+- You might want a boarder or frame to make your art look legit.
+
+
+### Step 6
+
+SHIP IT!
+- make a repo
+- push it to GH pages
+- Count your money
